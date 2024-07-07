@@ -165,20 +165,7 @@ LeetCode Staff Pick
 Dynamic Programming
 10 Essential DP Patterns
 View More
-Weekly Ranking
-1
-rank
-maxiaomeng0204
-Solved 32 problems
-2
-rank
-tw1883
-Solved 32 problems
-3
-rank
-thepingvin
-Solved 32 problems
-4
+
 
 TheBryce
 Solved 28 problems
